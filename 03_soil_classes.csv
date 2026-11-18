@@ -1,0 +1,6 @@
+soil,G_MPa,q_allow_kPa,R_m,h_edge_m,h_pedestal_m,concrete_m3,steel_t,governing_check
+very soft clay,4.0,120,,,,no feasible design in grid,,
+soft clay,8.0,150,10.5,0.6,2.4,492.0,34.5,no gapping (normal load)
+firm clay / loose sand,20.0,200,10.5,0.6,2.4,492.0,34.3,no gapping (normal load)
+medium-dense sand (reference),50.0,300,10.5,0.6,2.4,492.0,33.9,no gapping (normal load)
+dense sand / gravel,80.0,400,10.5,0.6,2.4,492.0,33.6,no gapping (normal load)
