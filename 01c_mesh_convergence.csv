@@ -1,5 +1,0 @@
-element_size_m,dofs,p_max_kPa,contact_fraction,m_Ed_pedestal_face_kNm_per_m,v_Ed_kN_per_m,runtime_s
-1.2,11571,192.1,0.877,5335,803,1.5
-0.8,15501,191.7,0.876,5337,800,2.2
-0.6,21987,191.6,0.874,5337,803,3.0
-0.4,39780,191.5,0.873,5328,805,7.4

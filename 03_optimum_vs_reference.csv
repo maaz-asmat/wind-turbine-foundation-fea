@@ -1,5 +1,0 @@
-design,R_m,h_edge_m,h_pedestal_m,concrete_m3,steel_t,governing_check
-reference,10.0,1.0,3.2,634.4,42.1,-
-optimum,10.5,0.6,2.4,492.0,33.9,no gapping (normal load)
-change_%,,,,-22.4,-19.5,
-min_indicative_cost,10.5,0.6,2.4,492.0,33.9,no gapping (normal load)
